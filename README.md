@@ -16,7 +16,7 @@ To use this program, open up your command line interface of choice and change yo
 
 The program will then run a series of functions to take in the information given to render a series of employee cards onto an HTML file located in the "assets" folder of the repository. To see the result, simply view the file in the internet browser of your choice. 
 
-If you would like to see how the employee class objects were tested, change directories to __tests__ and run "npm test (filename)" in the CLI to see if they pass the tests provided! 
+If you would like to see how the employee class objects were tested, run "npm test (./file location/filename)" in the CLI to see if they pass the tests provided! 
 ## Credits
 N/A
 ## License
