@@ -1,4 +1,5 @@
 const Employee = require('./employee')
+// extends employee class by adding new role and parameter
 class Intern extends Employee {
     constructor(name, id, email, school) {
 
@@ -10,7 +11,7 @@ class Intern extends Employee {
     getSchool() {
         return this.school;
     }
-
+    // overrides employee role
     getRole() {
         return 'Intern';
     }

@@ -1,4 +1,5 @@
 class Employee {
+    // provides parameters for employee class
     constructor(name, id, email) {
         this.name = name;
         this.id = id;

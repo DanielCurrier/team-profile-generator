@@ -1,5 +1,3 @@
-const { default: expect } = require('expect');
-const { number } = require('yargs');
 const Manager = require('../constructors/manager')
 
 
