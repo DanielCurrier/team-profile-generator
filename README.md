@@ -18,11 +18,9 @@ The program will then run a series of functions to take in the information given
 
 If you would like to see how the employee class objects were tested, run "npm test (./file location/filename)" in the CLI to see if they pass the tests provided! 
 
-Here is tutorial to 
+Here is a tutorial to provide additional context: 
 
 https://user-images.githubusercontent.com/112973907/209864409-2935c63f-5cb0-423f-b31c-863b32f8389a.mp4
-
-show you how it works: 
 
 ## Credits
 N/A
