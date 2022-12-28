@@ -11,7 +11,7 @@ const Intern = require('./constructors/intern');
 
 // the team array
 const team = [];
-// TODO:: 1. Create a class constructor for team members ✔ 2.set up the prompts for inquirer ✔ 3. set up loop to keep adding team members ✔. 4. set up function that will take these groups and produce them onto a html file with css styling. ✔5. test these with jest to prove it works it works 6. screencast the app, showing how it works. 7. Create a README file.
+// TODO:: 1. Create a class constructor for team members ✔ 2.set up the prompts for inquirer ✔ 3. set up loop to keep adding team members ✔. 4. set up function that will take these groups and produce them onto a html file with css styling. ✔5. test these with jest to prove it works it works ✔6. screencast the app, showing how it works. ✔7. Create a README file.
 
 
 // calls the inquirer prompts to generate an employee

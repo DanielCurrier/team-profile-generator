@@ -11,7 +11,7 @@ test('returns a manager object', () => {
 test('gets an office number', () => {
     const manager = new Manager('Bob', 739, 'BigBob23@gmail.com', 9);
 
-    expect(manager.getOfficeNumber()).toEqual(expect.any(number));
+    expect(manager.getOfficeNumber()).toEqual(expect.any(Number));
 })
 // test to determine whether getRole will return a role value(string)
 test('gets an employees role', () => {
