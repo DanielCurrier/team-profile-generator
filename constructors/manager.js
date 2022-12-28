@@ -1,5 +1,5 @@
 const Employee = require('./employee')
-
+// extends employee class by adding new role and parameter
 class Manager extends Employee {
     constructor(name, id, email, officeNumber) {
         super(name, id, email);
@@ -10,7 +10,7 @@ class Manager extends Employee {
     getOfficeNumber() {
         return this.officeNumber;
     }
-
+    // overrides employee role
     getRole() {
         return 'Manager';
     }
